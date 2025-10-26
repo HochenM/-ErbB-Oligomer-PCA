@@ -1,1 +1,2 @@
- This folder contains input and output files for heterotetramer PCA.
+Structural insights into oligomer formation of cancer regulatory ErbB receptors Article: 
+This folder contains input and output files for heterotetramer PCA (Priciple component anlysis)
